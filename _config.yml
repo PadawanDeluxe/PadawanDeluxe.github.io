@@ -51,5 +51,3 @@ minima:
 # Set to `true` to show excerpts on the homepage.
 #
 # show_excerpts: false
-- name: Deploy GitHub Pages site
-  uses: actions/deploy-pages@v1.2.3
