@@ -1,4 +1,4 @@
-title: My personal Blog
+title: IT DevOps and Collaboration
 author:
   name: Carsten Stamm
   email: webmaster@stamm-networks.de
@@ -6,7 +6,7 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  This is my personal Blog.
+  Aus dem alltäglichen Leben eines Consultants oder
 # Build settings
 
 theme: minima

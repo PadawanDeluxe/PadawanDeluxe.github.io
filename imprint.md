@@ -3,14 +3,12 @@ layout: page
 title: Imprint
 permalink: /imprint/
 ---
-
 # Impressum
 ## Angaben gem. § 5 TMG:
-Carsten Stamm
-47533 Kleve
+Carsten Stamm, 47533 Kleve
 
-Kontaktaufnahme:
-E-Mail: webmaster@stamm-networks.de
+## Kontaktaufnahme:
+E-Mail: mailto:webmaster(ät)stamm-networks.de
 
 # Haftungsausschluss – Disclaimer:
 ## Haftung für Inhalte
