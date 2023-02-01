@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Imprint
+title: Impressum
 permalink: /imprint/
 ---
-# Impressum
 ## Angaben gem. § 5 TMG:
 Carsten Stamm, 47533 Kleve
 

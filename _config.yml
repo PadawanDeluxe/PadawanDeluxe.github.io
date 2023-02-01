@@ -6,7 +6,7 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Aus dem alltäglichen Leben eines Consultants oder
+  Aus dem alltäglichen Leben eines IT Nerds.
 # Build settings
 
 theme: minima
@@ -48,6 +48,7 @@ minima:
 header_pages:
    - about.md
    - imprint.md
+   - links.md
 
 # Set to `true` to show excerpts on the homepage.
 #

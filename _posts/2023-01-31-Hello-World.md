@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hello World!"
-#categories: misc
+categories: misc
 ---
 
 Hello World - it's me!
